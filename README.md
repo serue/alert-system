@@ -1,2 +1,1 @@
-# alert-system
-Disease alert system
+This system serves to give alerts on disease outbreaks.
